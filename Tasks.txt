@@ -1,0 +1,8 @@
+CRUD in postman and what is its purpose?
+---->
+Postman is an API development tool that simplifies the process of creating, testing, and managing APIs (Application Programming Interfaces). Its main purposes include:
+1.API Monitoring
+2.API Testing
+asynchronous and what problem it solves?
+async/await and examples
+try/catch
